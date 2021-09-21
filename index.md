@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: yinz can edit these
+title: Mike Garver's github
+description: A collection of things I have worked on
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
