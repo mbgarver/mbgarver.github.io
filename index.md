@@ -1,5 +1,6 @@
 ---
-layout: default
+title: New Title
+description: yinz can edit these
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
