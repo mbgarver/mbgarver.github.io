@@ -9,3 +9,5 @@ Please find a TimeSeries Decomposition I created for an assignement in my compet
 
 Please find a link to a repository of pictures of my dog
 -[Sample Repository](https://github.com/mbgarver/sample)
+
+-[Home Page](index.md)
